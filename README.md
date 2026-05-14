@@ -1,7 +1,25 @@
-# Crop-Recommendation-System
+# Crop Recommendation System Using Soil and Climate Data
 
+Team Members:
+- Ashliya M Riyaz (MSc Data Science with Specialization in Computational Sciences)
+- P D Nivedh (MSc Data Science and BioAI)
+- Bainty Kaur Chugh (MSc Data Science and Geoinformatics)
+
+Problem Statement & Motivation
+
+Agriculture is one of the most critical sectors for food security, yet farmers often struggle to determine which crop is best suited for their land. Choosing the wrong crop based on incorrect assumptions about soil or climate conditions can lead to poor yields and economic loss. This project aims to address that by building a machine learning-based Crop Recommendation System that takes in soil nutrient levels and climate conditions as inputs and recommends the most suitable crop for farming. By leveraging data-driven insights, this system can empower farmers to make informed decisions and improve agricultural productivity.
+
+Dataset Description
+
+Source: Kaggle — madhuraatmarambhagat/crop-recommendation-dataset (downloaded via kagglehub)
+File: Crop_recommendation.csv
+Size: 2,200 samples × 8 columns
+
+Target: label — crop type (22 classes, 100 samples each)
+Class Distribution: Balanced — each of the 22 crop types has exactly 100 samples
 Data Preprocessing & Exploratory Data Analysis (EDA)
 Overview
+
 This section covers the initial data loading, inspection, and exploratory data analysis performed on the Crop Recommendation dataset. The goal was to understand the structure of the data, identify patterns across features, and visualize how different soil and climate conditions relate to various crops.
 
 Dataset

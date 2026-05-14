@@ -42,4 +42,5 @@ Boxplots were generated for each feature grouped by crop type, giving insight in
 Pairplots were created for a sample of 5 crops (rice, maize, wheat, mango, coffee) using the first 4 features, to visualize relationships and cluster separability between crops. Saved as pairplot.png.
 
 8. EDA Folder Organization
+
 All generated visualizations were moved into a dedicated /EDA folder for clean project structure.

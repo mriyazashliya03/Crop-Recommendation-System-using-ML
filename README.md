@@ -5,7 +5,13 @@ Team Members:
 - P D Nivedh (MSc Data Science and BioAI)
 - Bainty Kaur Chugh (MSc Data Science and Geoinformatics)
 
-Problem Statement & Motivation
+## Work Distribution
+
+- **Ashliya M Riyaz** - Deployment, Model Interpretation and Explainability
+- **Bainty Kaur Chugh** - Feature Engineering, Model Development and Model Comparison
+- **P D Nivedh** - Data Collection, Data Preprocessing and Cleaning, Exploratory Data Analysis, Created README
+
+## Problem Statement & Motivation
 
 Agriculture is one of the most critical sectors for food security, yet farmers often struggle to determine which crop is best suited for their land. Choosing the wrong crop based on incorrect assumptions about soil or climate conditions can lead to poor yields and economic loss. This project aims to address that by building a machine learning-based Crop Recommendation System that takes in soil nutrient levels and climate conditions as inputs and recommends the most suitable crop for farming. By leveraging data-driven insights, this system can empower farmers to make informed decisions and improve agricultural productivity.
 

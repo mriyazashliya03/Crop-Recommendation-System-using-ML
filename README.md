@@ -6,10 +6,11 @@ Team Members:
 - Bainty Kaur Chugh (MSc Data Science and Geoinformatics)
 
 ## Work Distribution
+- **P D Nivedh** - Data Collection, Data Preprocessing and Cleaning, Exploratory Data Analysis, README.md
+
+- **Bainty Kaur Chugh** - Feature Engineering, Model Development and Model Comparison
 
 - **Ashliya M Riyaz** - Deployment, Model Interpretation and Explainability
-- **Bainty Kaur Chugh** - Feature Engineering, Model Development and Model Comparison
-- **P D Nivedh** - Data Collection, Data Preprocessing and Cleaning, Exploratory Data Analysis, Created README
 
 ## Problem Statement & Motivation
 

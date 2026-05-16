@@ -100,3 +100,14 @@ An interactive graphical user interface (GUI) was developed to allow non-technic
 To host the application directly from the transient development environment without complex cloud-infrastructure overhead, a secure network gateway was established.
 * **Tool Used:** `pyngrok` (Python wrapper for the Ngrok edge ingress platform)
 * **Networking Topology:** Streamlit's local web server natively spins up a loopback socket on `http://localhost:8501`. A secure background token process hooks into this port, creating a public, encrypted reverse proxy link (`https://*.ngrok-free.dev`). This architectural choice makes the live application accessible on any internet-connected smartphone or computing device during live evaluations.
+## Web Application Demo
+
+### 🔗 Live Application Access
+The interactive dashboard is served via a secure network gateway during live project demonstrations:
+* **Live Link:** [Launch Web Application](https://panorama-mockup-sustainer.ngrok-free.dev/)
+* *Note: Because free Ngrok tunnel URLs are generated dynamically upon runtime execution, the link is active exclusively during live presentation sessions. For offline evaluation, please follow the local installation guidelines below.*
+
+### Application User Interface
+The screenshot below illustrates the functional Streamlit interface executing a live inference, processing input variables to successfully recommend the optimal crop selection:
+
+![Crop Recommendation System App Interface](Screenshot 2026-05-16 070901.png)
